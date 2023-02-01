@@ -11,7 +11,7 @@
 
 - Plateforme : AWS
 - OS: Debian 11
-- Fichier de configuration:
+- Le [Fichier de configuration](./files/squid-config.txt):
 
 Blocage de tous les ports sauf les ports 80, 443 et le port Squid
 
@@ -52,3 +52,13 @@ http_access deny all domain_blacklist
 .microsoft.com
 .leagueoflegends.com
 ```
+
+## Configuration du proxy sur le navigateur
+
+![Configuration Firefox](./files/ConfigFireFox.png)
+Afin d'appliquer le proxy sur le navigteur, il faudra se rendre dans les paramètres de Firefox:
+Général > _Network Settings_ > Séléctionner _Manual proxy configuration_.
+
+![Accès Refusé](./files/AccessDenied.png)
+
+(WIP)
