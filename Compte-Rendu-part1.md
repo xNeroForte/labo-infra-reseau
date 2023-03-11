@@ -2,10 +2,10 @@
 
 ## Documentation utilisée
 
-- ![](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/configuring-the-squid-caching-proxy-server)
-- [](https://medium.com/@minigear/introduction-to-squid-proxy-server-and-application-5f307245fa1d)
-- [](https://wiki.squid-cache.org/SquidFaq/SquidLogs)
-- [](https://www.it-connect.fr/mise-en-place-et-configuration-dun-proxy-avec-squid/)
+- (https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/configuring-the-squid-caching-proxy-server
+- (https://medium.com/@minigear/introduction-to-squid-proxy-server-and-application-5f307245fa1d
+- https://wiki.squid-cache.org/SquidFaq/SquidLogs
+- https://www.it-connect.fr/mise-en-place-et-configuration-dun-proxy-avec-squid/
 
 ## Configuration du serveur Proxy
 
